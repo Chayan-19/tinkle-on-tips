@@ -5,4 +5,4 @@ alphabet keys. So use your imagination and create the tunes you like. Happy tink
 
 This project is deployed on [tinkle-on-tips.online](www.tinkle-on-tips.online)
 
-Note: The screen record feature is currently not working right now. It is only capable to record from the mic.
+**Note: The screen record feature is currently not working right now. It is only capable to record from the mic.**
